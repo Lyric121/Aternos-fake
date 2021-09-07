@@ -1,0 +1,20 @@
+@media(max-width: 500px){
+	.menu{
+		position: static;
+	}
+	.menu a{
+		width: 100%;
+       padding: 21px 0;
+
+	}
+	.header{
+		margin-top: 0;
+		padding: 100px 10px;
+	}
+	.member{
+	 width: 87%;
+	}
+	.subsribe{
+		width: 87%;
+	}
+}
